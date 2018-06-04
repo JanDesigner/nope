@@ -1,0 +1,22 @@
+body {
+background-image: url("../img/bg1.png");
+background-position;
+background-repeat:no-repeat;
+background-size:cover;
+
+}
+
+.mine {
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+
+
+}
+
+.bday {
+	
+	border-radius: 20px 0 20px 0;
+	border:2px solid white;	
+}
